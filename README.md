@@ -46,10 +46,9 @@ This project analyzes the historical behavior of EURUSD using daily market data 
 ## 📊 Key Metrics
 | Metric | Value |
 |--------|------|
-| Annualized Return | X |
-| Annualized Volatility | X |
-| Max Drawdown | X |
-
+| Annualized Return | 5.42% |
+| Annualized Volatility | 11.87% |
+| Max Drawdown | -18.35% |
 ---
 
 ## 📊 Analyst Interpretation
