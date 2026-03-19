@@ -74,7 +74,3 @@ day-01-market-data-analysis/
 Day 2 will focus on building a technical indicator dashboard (RSI, MACD, Moving Averages) and exploring trading signals.
 
 ---
-
-## 👤 Author
-Felix
-
