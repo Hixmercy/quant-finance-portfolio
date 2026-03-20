@@ -1,6 +1,6 @@
 # Day 3 – Volatility & Risk Analysis (EURUSD)
 
-## 📌 Objective
+##  Objective
 The goal of this project is to understand the risk characteristics of the EURUSD market by analyzing how volatile it is, how risk changes over time, and how much potential loss a trader might face.
 
 ---
