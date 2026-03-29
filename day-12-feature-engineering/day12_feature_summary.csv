@@ -1,0 +1,17 @@
+Feature,Description
+return_lag_1,Previous day's return
+return_lag_2,Return from 2 days ago
+return_lag_3,Return from 3 days ago
+return_lag_5,Return from 5 days ago
+rolling_mean_5,5-day average return
+rolling_mean_10,10-day average return
+rolling_std_5,5-day return volatility
+rolling_std_10,10-day return volatility
+momentum_3,3-day price momentum
+momentum_5,5-day price momentum
+momentum_10,10-day price momentum
+high_low_range,Daily high-low trading range
+open_close_range,Open-to-close price movement
+SMA_ratio,Short vs long moving average ratio
+RSI_14,14-day RSI momentum indicator
+MACD,MACD momentum indicator
